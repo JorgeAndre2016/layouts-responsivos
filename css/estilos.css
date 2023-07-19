@@ -311,6 +311,7 @@ body {
     .rodape__container {
         height: 420px;
         padding-left: 74px;
+        justify-content: space-between;
     }
 
 }
