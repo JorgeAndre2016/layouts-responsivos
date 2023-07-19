@@ -251,6 +251,9 @@ body {
     line-height: 1.5;
     font-size: 16px;
     background-color: white;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
 }
 
 .rodape__titulo {
