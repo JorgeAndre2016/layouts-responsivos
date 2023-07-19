@@ -36,6 +36,10 @@ body {
     padding: 0 25px;
 }
 
+.cabecalho__pesquisar__item {
+    display: none;
+}
+
 .logo__item {
     background-image: url(../img/cabecalho/Logo.png);
     background-repeat: no-repeat;
@@ -259,6 +263,10 @@ body {
 
     body {
         height: 100vh;
+    }
+
+    .cabecalho__pesquisar__item {
+        display: block;
     }
 
     /* ESTILOS DO MENU LATERAL */
